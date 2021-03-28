@@ -105,7 +105,7 @@ function keyPressed(){
     noLoop();
   }
   
-  if (key==SHIFT){ 
+  if (keyCode==SHIFT){ 
     loop();
   }
     
