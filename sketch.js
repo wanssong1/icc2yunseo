@@ -105,7 +105,7 @@ function keyPressed(){
     noLoop();
   }
   
-  if (keyCode==SHIFT){ 
+  if (keyCode==BACKSPACE){ 
     loop();
   }
     
